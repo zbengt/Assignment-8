@@ -1,0 +1,38 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Zach Bengtsson, zbengt@uw.edu"
+date: "12 March 2023"
+output: ioslides_presentation
+---
+
+# Introduction
+
+## About me | Personal
+
+- Born in Colorado
+- Favorite foods: pho, poke, pizza
+- Favorite animals: jumping spiders, cephalopods
+
+## About me | Academic
+
+- Undergraduate institution
+  - Boston University
+- Undergraduate major
+  - Biology
+
+# Data science
+
+## Course topics | 3 things I enjoyed learning about
+
+1) Creating markdown presentations
+2) Using markdown to create docs
+3) How to make packages
+
+## Course topics | 3 things I’d like to learn more about
+
+1) Managing genomic analysis workflows on GitHub
+2) Professional database management
+3) Analysis pipeline creation from start to finish
+
+## {data-background=img/reef.jpeg data-background-size=cover}
